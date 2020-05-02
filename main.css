@@ -1,0 +1,29 @@
+.container {
+    width: 700px;
+    margin: 0 auto;
+  }
+  .header {
+    text-align: center;
+    background: white;
+    padding: 3px;
+  }
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+    
